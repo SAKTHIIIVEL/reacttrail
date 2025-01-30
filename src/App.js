@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <div className="App">
-      <h1>Hello World!! app js</h1>
+      <h1>My News Website</h1>
       {/* This <Home/> is the function name in the folder components/home/Home.js */}
       <Home/>
     </div>

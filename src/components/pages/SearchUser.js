@@ -47,7 +47,7 @@ export const SearchUser = () => {
 
   return (
     <div>
-    <h3>SearchUser</h3>
+    <h3>Search News</h3>
     <TextField
       fullWidth
       label="Search News by Title"
